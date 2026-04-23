@@ -1,6 +1,13 @@
+h2 {
+	align-items:center;
+}
+table{
+	border-spacing: 1px;
+}
 table tr td {
-	border: 1px solid balck;
-    cell-padding: 1px;
+	border: 1px solid rgb(0,0,0);
+    padding: 1px;
+	
 }
 
 .center {
